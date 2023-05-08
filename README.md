@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedprogram-that-stores-names-in-an-array-and-continues-to-add-names
+<br>
+write a program that stores names in an array and continues to add names until quit is typed. the program has a menu that includes getNames to add the names,sort Names to sort the names with bubble sort,displayNames to show the current names, findName to locate a name or output an error, and romoveName to get rid of a name
